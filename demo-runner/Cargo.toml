@@ -1,0 +1,8 @@
+[package]
+name = "demo-runner"
+version = "0.1.0"
+authors = ["Aditya Kresna <aditya.kresna@outlook.co.id>"]
+edition = "2018"
+
+[dependencies]
+demo-fibonacci = { path = "../demo-fibonacci" }
