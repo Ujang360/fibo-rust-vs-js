@@ -1,4 +1,4 @@
-# Fibonacci Performance of Rust & Javascript
+# Fibonacci Execution Time of Rust & Javascript
 
 ## Result
 
