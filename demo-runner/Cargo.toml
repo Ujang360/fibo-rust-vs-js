@@ -6,3 +6,4 @@ edition = "2018"
 
 [dependencies]
 demo-fibonacci = { path = "../demo-fibonacci" }
+xshell = "0.1.6"
